@@ -58,26 +58,18 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sahilnair71&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilnair71&layout=compact&theme=tokyonight&cache_seconds=1800"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
+
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Sahilnair71&theme=tokyonight"
-    height="180"
-    alt="GitHub Streak"
-  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilnair71&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilnair71&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sahilnair71&theme=tokyonight)
+
 </p>
+
 
 
 <!--
