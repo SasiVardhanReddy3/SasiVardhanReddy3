@@ -59,13 +59,26 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SasiVardhanReddy3&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SasiVardhanReddy3&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sahilnair71&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilnair71&layout=compact&theme=tokyonight&cache_seconds=1800"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SasiVardhanReddy3&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>## Hi there 👋
+  <img
+    src="https://streak-stats.demolab.com?user=Sahilnair71&theme=tokyonight"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 <!--
 **SasiVardhanReddy3/SasiVardhanReddy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
