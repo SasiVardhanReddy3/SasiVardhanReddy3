@@ -57,32 +57,18 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
+<div align="center">
+
+  ![](https://github-readme-stats-cyyin.vercel.app/api?username=ayaan2525&show_icons=true&count_private=true&hide_title=true)
+
+</div>
+
+<div align="center">
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan2525&layout=compact)
+
+</div>
 
 
-<p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahilnair71&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilnair71&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sahilnair71&theme=tokyonight)
-
-</p>
-
-
-
-<!--
-**SasiVardhanReddy3/SasiVardhanReddy3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
