@@ -34,7 +34,7 @@
 ---
 
 ## 🛠️ Languages & Tools
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
        alt="Python" width="50" height="50"/>
 
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahilnair71&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SasiVardhanReddy3&theme=tokyonight" alt="GitHub Streak" height="180"/>
 </p>## Hi there 👋
 
 <!--
