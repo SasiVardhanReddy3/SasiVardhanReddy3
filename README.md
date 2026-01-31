@@ -61,13 +61,13 @@
 
 <div align="center">
 
-  ![](https://github-readme-stats-cyyin.vercel.app/api?username=ayaan2525&show_icons=true&count_private=true&hide_title=true)
+  ![](https://github-readme-stats-cyyin.vercel.app/api?username=SasiVardhanReddy3&show_icons=true&count_private=true&hide_title=true)
 
 </div>
 
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaan2525&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SasiVardhanReddy3&layout=compact)
 
 </div>
 
