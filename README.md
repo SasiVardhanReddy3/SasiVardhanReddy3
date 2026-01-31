@@ -42,7 +42,7 @@
        alt="Power BI" width="50" height="50"/>
 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.png"
-     width="50"/>
+     alt="Tableau" width="50"/>
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
