@@ -41,7 +41,7 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"
        alt="Power BI" width="50" height="50"/>
 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.png"
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau-original.svg"
      alt="Tableau" width="50"/>
 
 
