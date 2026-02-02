@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 - 🎓 Pursuing **Master's in Mathematical Modeling Simulation and Optimization** from University of Koblenz.
-- 💻 Data Analyst skilled in technologies like **SQL & Python**, and Visualization with **Power BI & Tabluea**.
+- 💻 Data Analyst skilled in technologies like **SQL & Python**, and Visualization with **Power BI & Tableau**.
 - ☁️ Experienced in **Data Analysis**, building and maintaining **CI/CD pipelines** using GitHub Actions and working with tools like Docker and AWS.
 - Coloud Enthusiast currently honing my skills in cloud related development.
 - 📫 How to reach me: **sasivardhanreddy33@gmail.com**
@@ -42,7 +42,7 @@
        alt="Power BI" width="50" height="50"/>
 
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau-original.svg"
-     alt="Tableau" width="50"/>
+     alt="Tableau" title="tableau" width="50"/>
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
