@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 - 🎓 Pursuing **Master's in Mathematical Modeling Simulation and Optimization** from University of Koblenz.
-- 💻 Data Analyst skilled in technologies like **SQL & Python**, and Visualization with **Power BI & Tableau**.
+- 💻 Data and Cloud enthusit skilled in technologies like **SQL & Python**,**AWS** and Visualization with **Power BI & Tableau**.
 - ☁️ Experienced in **Data Analysis**, building and maintaining **CI/CD pipelines** using GitHub Actions and working with tools like Docker and AWS.
 - Coloud Enthusiast currently honing my skills in cloud related development.
 - 📫 How to reach me: **sasivardhanreddy33@gmail.com**
